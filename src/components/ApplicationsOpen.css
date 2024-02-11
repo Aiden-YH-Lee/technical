@@ -1,0 +1,57 @@
+/* ApplicationsOpen.css */
+.applications-open {
+    background-color: #F5F5DC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 20px;
+    height: 550px;
+
+
+  }
+  
+  .content-container {
+    text-align: left;
+    max-width: 600px; /* Adjust the width based on your design */
+  }
+  
+  .applications-open h1 {
+    margin-bottom: 20px;
+    color: #1F4A38;
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  .applications-open p {
+    margin-bottom: 32px;
+    font-size: 18px;
+    color: #333;
+    width: 535.77px;
+    height: 63.06px;
+    top: 1378.04px;
+    left: 435px;
+
+  }
+  
+  .apply-button {
+    background-color: #1F4A38;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  .apply-button:hover {
+    background-color: #40916C;
+  }
+  

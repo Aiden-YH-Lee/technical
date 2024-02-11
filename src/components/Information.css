@@ -1,0 +1,41 @@
+.information {
+    color: #1F4A38;
+  }
+  
+  .info-section {
+    background-color: #FAF5E7; /* Or the specific color from your design */
+    padding: 40px 400px; /* Adjust the padding as needed */
+    text-align: left;
+    height: 500px;
+  }
+  
+  .info-section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: left;
+
+  }
+
+  .info-section h3 {
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30.77px;
+  }
+  
+  .info-section p {
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .info-section {
+      padding: 20px; /* Smaller padding on smaller screens */
+    }
+  }
+  

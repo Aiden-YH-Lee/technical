@@ -1,0 +1,43 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: transparent;
+  position: relative;
+  top: 0;
+  width: 100%;
+  transition: background-color 0.3s;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-sizing: border-box;
+}
+
+.navbar.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #FDFBF7;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.nav-logo, .nav-items {
+  display: flex;
+}
+
+.nav-logo {
+  cursor: pointer;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.nav-items {
+  display: flex;
+}
+
+.nav-item {
+  cursor: pointer;
+  padding: 10px;
+}
+

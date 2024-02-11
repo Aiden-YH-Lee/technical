@@ -1,0 +1,31 @@
+
+  .header {
+    background-image: url('/Users/yeongheonlee/PennApps/technical/src/assets/landing-background.png');
+    background-size: cover;
+    background-position: top center;
+    background-color: #F5EDD6;
+    height: 100vh;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: top center;
+    align-items: center;
+  }
+
+
+  .event-info {
+    font-size: 1.5em; /* Adjust based on your design */
+    color: #004d40; /* Adjust based on your design */
+    text-align: center;
+    margin-left: 450px;
+    font-weight: bold;
+  }
+
+  .time-unit {
+    font-size: 3em; /* Adjust based on your design */
+    font-weight: bold;
+    /* Additional styling */
+  }
+  
+  
+  
