@@ -1,4 +1,3 @@
-// ApplicationsOpen.jsx
 import React from 'react';
 import './ApplicationsOpen.css';
 

@@ -1,4 +1,3 @@
-/* ApplicationsOpen.css */
 .applications-open {
     background-color: #F5F5DC;
     display: flex;
@@ -12,7 +11,7 @@
   
   .content-container {
     text-align: left;
-    max-width: 600px; /* Adjust the width based on your design */
+    max-width: 600px; 
   }
   
   .applications-open h1 {

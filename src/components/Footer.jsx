@@ -1,7 +1,7 @@
 import React from 'react';
 import './Footer.css';
-import footerBackground from '/Users/yeongheonlee/PennApps/technical/src/assets/footer-background.png'; // Adjust the path as needed
-import pennEngineeringLogo from '/Users/yeongheonlee/PennApps/technical/src/assets/penn-logo.png'; // Adjust the path as needed
+import footerBackground from '/Users/yeongheonlee/PennApps/technical/src/assets/footer-background.png';
+import pennEngineeringLogo from '/Users/yeongheonlee/PennApps/technical/src/assets/penn-logo.png'; 
 
 const Footer = () => {
   return (

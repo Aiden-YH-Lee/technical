@@ -1,32 +1,31 @@
 .footer {
     background-image: url('/Users/yeongheonlee/PennApps/technical/src/assets/footer-background.png');
-    background-color: #FAF5E7; /* Or any other color you prefer */
+    background-color: #FAF5E7; 
     background-size: cover;
     background-position: bottom center;
-    color: #FAF5E7; /* Adjust color to match the design */
-    height: 700px; /* Set a fixed height for the footer */
+    color: #FAF5E7; 
+    height: 700px; 
     width: 100%;
     padding-top: 100px;
-    position: relative; /* Set position to relative */
+    position: relative; 
   }
   
   .footer-content {
     display: flex;
-    justify-content: space-between; /* Align text and logo to opposite ends */
-    align-items: flex-end; /* Align items to the bottom */
-    max-width: 1200px; /* Adjust as per your design's width */
+    justify-content: space-between; 
+    align-items: flex-end; 
+    max-width: 1200px; 
     margin: 0 auto;
-    position: absolute; /* Position footer content absolutely */
-    bottom: 0; /* Align to the bottom of the footer */
+    position: absolute; 
+    bottom: 0; 
     left: 0;
-    right: 0; /* Align to both left and right edges */
-    padding: 0 20px; /* Add padding to create space between edges */
+    right: 0; 
+    padding: 0 20px; 
   }
   
   .footer-text p {
     margin: 0;
-    font-size: 16px; /* Adjust font size to match the design */
-    /* Add additional styling */
+    font-size: 16px;
   }
 
   .footer-text h1 {
@@ -37,17 +36,16 @@
   .footer-links .footer-link, 
   .footer-socials .social-link {
     text-decoration: none;
-    margin-right: 15px; /* Space between links */
-    /* Add additional styling */
+    margin-right: 15px; 
   }
   
   .footer-logo img {
-    width: auto; /* Adjust width to match the design */
-    height: 50px; /* Adjust height to match the design */
+    width: auto; 
+    height: 50px; 
   }
   
   .footer-logo {
-    margin-top: auto; /* Push the logo to the bottom */
+    margin-top: auto; 
   }
   
   

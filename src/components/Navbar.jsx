@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
-import './Navbar.css'; // Make sure to create Navbar.css and add appropriate styles
+import './Navbar.css';
 
 const Navbar = () => {
   const [isSticky, setIsSticky] = useState(false);
 
   const handleScroll = () => {
     const offset = window.pageYOffset;
-    setIsSticky(offset > window.innerHeight); // Assuming the landing page is full height
+    setIsSticky(offset > window.innerHeight); 
   };
 
   useEffect(() => {
