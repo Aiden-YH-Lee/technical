@@ -1,5 +1,5 @@
 .footer {
-    background-image: url('/Users/yeongheonlee/PennApps/technical/src/assets/footer-background.png');
+    background-image: url('../assets/footer-background.png');
     background-color: #FAF5E7; 
     background-size: cover;
     background-position: bottom center;

@@ -1,6 +1,6 @@
 
   .header {
-    background-image: url('/Users/yeongheonlee/PennApps/technical/src/assets/landing-background.png');
+    background-image: url('../assets/landing-background.png');
     background-size: cover;
     background-position: top center;
     background-color: #F5EDD6;
@@ -10,6 +10,7 @@
     flex-direction: column;
     justify-content: top center;
     align-items: center;
+    padding-top: 100px;
   }
 
 
