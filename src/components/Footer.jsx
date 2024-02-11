@@ -6,18 +6,20 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <div className="footer-text">
-          <h1>PENNAPPS</h1>
-          <p>© 2022 PennApps</p>
-          <p>contact@pennapps.com</p>
-        </div>
-        <div className="footer-links">
-          <p>Code of Conduct</p>
-        </div>
-        <div className="footer-socials">
-          <p>Facebook</p>
-          <p>Twitter</p>
-          <p>Instagram</p>
+        <div className="footer-group">
+          <div className="footer-text">
+            <h1>PENN<br></br>APPS</h1>
+            <p>© 2022 PennApps</p>
+            <p>contact@pennapps.com</p>
+          </div>
+          <div>
+            <p>Code of Conduct</p>
+          </div>
+          <div className="footer-socials">
+            <p>Facebook</p>
+            <p>Twitter</p>
+            <p>Instagram</p>
+          </div>
         </div>
         <div className="footer-logo">
           <p>Organized with support from:</p>

@@ -8,11 +8,6 @@
   .countdown div {
     text-align: center;
   }
-
-  .countdown {
-    display: flex;
-    gap: 10px; 
-  }
   
   .countdown-box {
     background: white;
@@ -28,13 +23,15 @@
   
   .time-value {
     font-weight: bold;
-    font-size: 2em; 
+    font-size: 2em;
+    color: #214A38;
   }
   
   .time-label {
     font-weight: normal;
     font-size: 1em; 
     text-transform: uppercase;
+    color: #214A38;
   }
   
   
